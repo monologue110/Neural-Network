@@ -1,2 +1,4 @@
 # Neural-Network
-Multi-layer/ Single ayer
+Implementation of Multi-layer/ Single layer neural network and also some activation fucntion.
+
+use minist data for trianing the model
